@@ -1,2 +1,2 @@
 #!/bin/sh
-su -c ./gitHubsetup.sh root
+su -c ./script.sh root
